@@ -1,4 +1,4 @@
-pipelineJob('FirstRun') {
+pipelineJob('first-run_pipeline') {
     definition {
         cpsScm {
             scm {
