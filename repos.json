@@ -34,5 +34,9 @@
     "ninjas_pipeline": {
         "url": "ssh://git@git-server.marathon.mesos:10022/home/git/ninjas",
         "branch": "feature/mesos-docker"
+    },
+    "vault-unseal": {
+        "url": "https://github.com/adamjkeller/vault-ecs.git",
+        "branch": "master"
     }
 }
